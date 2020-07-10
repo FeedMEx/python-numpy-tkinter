@@ -62,8 +62,8 @@ class GUI():
 
 	def InterfazMatriz(self):
 
-		self.NFilas.set('2') #Iniciar la interfaz grafica con dos filas y columnas
-		self.NColumnas.set('2')
+		self.NFilas.set('2') #Iniciar la interfaz grafica con dos filas 
+		self.NColumnas.set('2')#                            y dos columnas
 
 		if self.VarMatriz.get()==1:
 			self.FrameMatriz.place(x=20,y=90)
