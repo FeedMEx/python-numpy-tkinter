@@ -10,6 +10,7 @@ A partir del algoritmo creado en el proyecto, se puede agregar mas funciones com
  - python3 - Lenguaje de programación
  - numpy - Librería para el manejo óptimo de arreglos o vectores
  - tkinter - Librería para la interfaz gráfica
+ - sympy - Librería para manipular datos de tipo racional
 
 ## Consulta sobre el proyecto
 gmail: 160892@unsaac.edu.pe
